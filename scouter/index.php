@@ -338,7 +338,7 @@
             <div id="top">
                 <div id="logoAndScoreboard">
                     <div id="logoOuter">
-                        <img src="../images/swipeZillaLogo.png" class="logo" alt="Logo">
+                        <img src="../images/grpyswpyLogo.webp" class="logo" alt="Logo">
                         <h1>SwipeZilla - scouting app</h1>
                     </div>
                     <div id="scoreboardOuter">

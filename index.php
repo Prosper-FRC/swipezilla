@@ -147,7 +147,7 @@ $events = $eventStmt->fetchAll(PDO::FETCH_ASSOC);?>
     </style>
 </head>
 <body>
-    <img src="images/swipeZillaLogo.png" class="logo"> 
+    <img src="images/grpyswpyLogo.webp" class="logo"> 
     <h1>FRC Scouting Form</h1>
 
     <form id="scoutingForm">
